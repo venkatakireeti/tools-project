@@ -23,7 +23,7 @@ This project represents a sample implementation of a **SAML 2.0 Service Provider
 - **Version:**  ` 2.3.1.RELEASE`
 - **Last update**: February 15th, 2020
 
-Thanks to *Vladimír Schäfer* ([github.com/vschafer](https://github.com/vschafer)) for supporting my work.
+Thanks to *Vladimír Schäfer* ([github.com/vschafer](https://github.com/vschafer)) for supporting my work
 
 ### References
 
